@@ -1,4 +1,4 @@
-#💸Short-Links-to-Riches-How-to-Make-Money-Every-Click
+# 💸Short-Links-to-Riches-How-to-Make-Money-Every-Click
 # Hello everyone 👋
 
 🔥 One of my favorite and most profitable methods!  
