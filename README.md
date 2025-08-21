@@ -8,7 +8,7 @@ When it comes to link shorteners, **ouo.io** stands out for me.
 It’s simple to use and lets you withdraw your earnings via **Bitcoin, PayPal, and other methods 💳💰**.  
 One of its best features is that it counts multiple clicks from the same user—maximizing your income! 🚀  
 
-👉 You can **check it out here**: [ouo.io](http://ouo.io/ref/TqZE2HOI)  
+👉 **sign up here**: [ouo.io](http://ouo.io/ref/TqZE2HOI)  
 
 ---
 
