@@ -47,6 +47,6 @@ Early clicks may be low, but passion keeps you going and prevents quitting too s
 ✨ If this post helped you, don’t forget to ⭐ leave a star!  
 
 🙏 Support the work (optional):  
-- BTC: bitcoin:bc1qqjs37g2ts3z6l824pu3xpqms7w3ah6tmn3drwh
-- ETH:ethereum:0xB7E17b08C4b327e5c89E7417F93D8349FE2945fC
-- LTC:litecoin:ltc1qaze088wjgdapayzcy7mecux0y5dsfg0chvv9a6
+- BTC: bc1qqjs37g2ts3z6l824pu3xpqms7w3ah6tmn3drwh
+  -ETH:0xB7E17b08C4b327e5c89E7417F93D8349FE2945fC
+- LTC:ltc1qaze088wjgdapayzcy7mecux0y5dsfg0chvv9a6
