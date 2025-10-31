@@ -44,7 +44,4 @@ Early clicks may be low, but passion keeps you going and prevents quitting too s
 
 ---
 
-✨ If this post helped you, don’t forget to ⭐ leave a star!  
-
-🙏 Support the work (optional):  
-- BTC: bc1qqjs37g2ts3z6l824pu3xpqms7w3ah6tmn3drwh
+✨ If this post helped you, don’t forget to ⭐ leave a star!
